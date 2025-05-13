@@ -1,0 +1,28 @@
+.divForm {
+  margin-left: 35%;
+  margin-top: 10%;
+}
+form {
+  border: 3px solid black;
+  box-shadow: 10px 10px 5px #000000;
+  padding: 5em;
+  border-radius: 10px;
+}
+
+button {
+  cursor: pointer;
+}
+
+.resultado {
+  font-family: "Times New Roman", Times, serif;
+  font-size: 20px;
+  text-align: left;
+  width: 33vw;
+  height: 40vh;
+  margin-left: 35%;
+  margin-top: 10%;
+  border: 3px solid black;
+  box-shadow: 10px 10px 5px #000000;
+  padding: 5em;
+  border-radius: 10px;
+}
